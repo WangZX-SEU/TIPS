@@ -1,5 +1,5 @@
 # TIPS
-__TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration__
+##__TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration__
 
 __We are working on an information-based autonomous exploring framework for UGV. The paper has been submitted to _IEEE Robotics and Automation Letters (RAL)_, and we plan to open-source the code after the paper is accepted.__
 
