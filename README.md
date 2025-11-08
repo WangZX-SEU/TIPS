@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center">TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration</h1>
 <h3 class="is-size-4 has-text-weight-bold" style="color: orange;" align="center">
-    IEEE Robotics and Automation Letters (RAL), October 16, 2025
+    IEEE Robotics and Automation Letters, 2025
 </h3>
   <p align="center">
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=G8sNV64AAAAJ" target="_blank"><strong>Zhuoxuan Wang</strong></a>
