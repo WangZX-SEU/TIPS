@@ -23,7 +23,7 @@
 We propose a tiered systematic framework to enhance the overall efficiency and environmental coverage of autonomous exploration for Autonomous GroundVehicle (AGV) in complex environments with narrow regions. At the local level, we introduce a novel Multi-cause Triggering Sensor Model (MTSM) to improve informative observation acquisition in narrow regions. Furthermore, the Frontier set is defined from a probabilistic distribution perspective and utilized to optimize the initial training pool of Bayesian optimization, thereby accelerating convergence toward the optimal navigation target point. At the global level, we incrementally maintain an Information-Rich Sparse Roadmap (IRSR) by leveraging accumulated historical exploration knowledge. When a dead zone situation is detected, the heuristic guidance is activated and realized by graph search considering information content and distance between IRSR vertices, enabling AGV to maintain a continuous and sustained exploration process.
 
 <p align="center">
-  <img src="./figures/MTSM_three_causes.png" width = "400" height = "273"/>
+  <img src="./figures/MTSM_three_causes.png" width = "350" height = "273"/>
     &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
   <img src="./figures/BKIO_with_Frontier.png" width = "500" height = "373"/>
 </p>
