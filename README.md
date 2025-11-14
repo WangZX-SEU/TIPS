@@ -54,7 +54,7 @@ Please Check out our demonstration video on [YouTube](https://www.youtube.com/wa
 [![Watch the video](./figures/TIPS_cover.png)](https://www.youtube.com/watch?v=0_vi6ks_7sw)
 
 ## 🧩 Source code
-The code will be open-source after re-organization.
+We are preparing the code for public release with cleanup and reorganization to ensure quality. The release is planned for the first half of 2026. Thank you for your understanding and support.
 
 ## ✒️ Citation
 Please cite our paper if you think our work is useful to your scientific research:
