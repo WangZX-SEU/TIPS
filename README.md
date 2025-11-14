@@ -29,14 +29,19 @@ We propose a tiered systematic framework to enhance the overall efficiency and e
 </p> -->
 
 <p align="center">
+  <img src="./figures/overview_without_JE.png" width="550" height="473"/>
+  <br>
+  <strong>Fig.1.</strong> The flow chart of the proposed framework.
+  <br><br>
+    
   <img src="./figures/MTSM_three_causes.png" width="550" height="473"/>
   <br>
-  <strong>Fig.1.</strong> An illustration of MTSM in an FoV with multiple rays. (a) Rays pass Reaching voxels, Tc(R) is triggered. (b) Rays reach Bouncing voxels at the maximum distance zmax, Tc(R) and Tc(B) are triggered. (c) Rays reflected by Stacking voxels, Tc(R), Tc(B) and Tc(S), are triggered.
+  <strong>Fig.2.</strong> An illustration of MTSM in an FoV with multiple rays. (a) Rays pass Reaching voxels, Tc(R) is triggered. (b) Rays reach Bouncing voxels at the maximum distance zmax, Tc(R) and Tc(B) are triggered. (c) Rays reflected by Stacking voxels, Tc(R), Tc(B) and Tc(S), are triggered.
   <br><br>
 
   <img src="./figures/BKIO_with_Frontier.png" width="600" height="473"/>
   <br>
-  <strong>Fig.2.</strong> Schematic of IRSR. (a) Optimal target determination and expansion of IRSR. The heatmap represents the amount of information contained in each voxel. (b) Heuristic global guidance based on IRSR.</em>
+  <strong>Fig.3.</strong> Schematic of IRSR. (a) Optimal target determination and expansion of IRSR. The heatmap represents the amount of information contained in each voxel. (b) Heuristic global guidance based on IRSR.</em>
 </p>
 
 
